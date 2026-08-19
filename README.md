@@ -17,28 +17,30 @@ This playbook helps teams achieve clarity, consistency, and alignment during rel
 - Workflow Overview Diagram (optional)
 
 #### Who This Is For
-Program Managers
+- Program Managers
 
-Release Managers
+- Release Managers
 
-Operations Coordinators
+- Operations Coordinators
 
-Technical PMs
+- Technical PMs
 
-Teams adopting structured release processes
+- Teams adopting structured release processes
 
 #### How to Use
-Review the checklist before each release cycle.
 
-Share the communication plan with stakeholders.
+- Review the checklist before each release cycle.
 
-Track risks early and update frequently.
+- Share the communication plan with stakeholders.
 
-Use the stakeholder map to clarify roles and responsibilities.
+- Track risks early and update frequently.
 
-Customize the templates to fit your team’s workflow.
+- Use the stakeholder map to clarify roles and responsibilities.
+
+- Customize the templates to fit your team’s workflow.
 
 #### About This Project
+
 Created by releaseatelier, this playbook represents a modern, structured approach to release readiness with an emphasis on clarity, communication, and operational excellence.
 
 
