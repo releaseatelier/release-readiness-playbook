@@ -1,0 +1,13 @@
+### Release Readiness Checklist
+A structured checklist to ensure all critical steps are completed before, during, and after a release. Adapt this to fit your team’s workflow and tooling.
+
+#### 1. Planning and Scope Confirmation
+ - Requirements finalized and documented
+
+ - Release scope approved by product/engineering
+
+ - Dependencies identified and communicated
+
+ - Risk areas flagged early
+
+ - Stakeholder list updated
