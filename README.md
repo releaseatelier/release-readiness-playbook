@@ -1,4 +1,3 @@
-# release-readiness-playbook
 ### Release Readiness Playbook
 A structured, practical guide for preparing and coordinating product releases across cross-functional teams. This playbook reflects real-world workflows used in enterprise environments and provides a repeatable, adaptable framework for release readiness.
 
