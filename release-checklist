@@ -1,71 +1,66 @@
-Release Readiness Checklist
+---
+
+# Release Readiness Checklist
+
 A structured checklist to ensure all critical steps are completed before, during, and after a release. Adapt this to fit your team’s workflow and tooling.
 
-1. Planning & Scope Confirmation
-[ ] Requirements finalized and documented
+---
 
-[ ] Release scope approved by product/engineering
+## 1. Planning & Scope Confirmation
+- [ ] Requirements finalized and documented  
+- [ ] Release scope approved by product/engineering  
+- [ ] Dependencies identified and communicated  
+- [ ] Risk areas flagged early  
+- [ ] Stakeholder list updated  
 
-[ ] Dependencies identified and communicated
+---
 
-[ ] Risk areas flagged early
+## 2. Environment & Build Preparation
+- [ ] Build pipeline validated  
+- [ ] Environments stable and accessible  
+- [ ] Feature flags reviewed  
+- [ ] Configuration changes documented  
+- [ ] Deployment steps confirmed  
 
-[ ] Stakeholder list updated
+---
 
-2. Environment & Build Preparation
-[ ] Build pipeline validated
+## 3. Testing & Validation
+- [ ] QA test cases executed  
+- [ ] Regression testing completed  
+- [ ] UAT sign-off received  
+- [ ] Performance checks completed  
+- [ ] Bugs triaged and prioritized  
 
-[ ] Environments stable and accessible
+---
 
-[ ] Feature flags reviewed
+## 4. Communication & Coordination
+- [ ] Release timeline shared with all stakeholders  
+- [ ] Go/no-go meeting scheduled  
+- [ ] Support teams notified  
+- [ ] Release notes drafted  
+- [ ] Customer-facing messaging prepared (if applicable)  
 
-[ ] Configuration changes documented
+---
 
-[ ] Deployment steps confirmed
+## 5. Deployment Readiness
+- [ ] Deployment owner assigned  
+- [ ] Rollback plan documented  
+- [ ] Monitoring tools configured  
+- [ ] Access permissions validated  
+- [ ] Final go/no-go decision recorded  
 
-3. Testing & Validation
-[ ] QA test cases executed
+---
 
-[ ] Regression testing completed
+## 6. Post-Release Activities
+- [ ] Smoke tests completed  
+- [ ] Monitoring dashboards reviewed  
+- [ ] Issues logged and assigned  
+- [ ] Release notes published  
+- [ ] Retrospective scheduled  
 
-[ ] UAT sign-off received
+---
 
-[ ] Performance checks completed
+## Version History
+- **v1.0** — Initial release checklist created by *releaseatelier*
 
-[ ] Bugs triaged and prioritized
-
-4. Communication & Coordination
-[ ] Release timeline shared with all stakeholders
-
-[ ] Go/no-go meeting scheduled
-
-[ ] Support teams notified
-
-[ ] Release notes drafted
-
-[ ] Customer-facing messaging prepared (if applicable)
-
-5. Deployment Readiness
-[ ] Deployment owner assigned
-
-[ ] Rollback plan documented
-
-[ ] Monitoring tools configured
-
-[ ] Access permissions validated
-
-[ ] Final go/no-go decision recorded
-
-6. Post-Release Activities
-[ ] Smoke tests completed
-
-[ ] Monitoring dashboards reviewed
-
-[ ] Issues logged and assigned
-
-[ ] Release notes published
-
-[ ] Retrospective scheduled
-
-Version History
-v1.0 — Initial release checklist created by releaseatelier
+---
